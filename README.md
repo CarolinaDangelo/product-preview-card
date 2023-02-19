@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/CarolinaDangelo/product-preview-card/blob/97044646a67ac13c9c49f76c85555ae31cbcdbbe/images/captura.jpg">
 
 <h1 aligntext="center">Frontend Mentor - Product preview card component solution</h1>
 
