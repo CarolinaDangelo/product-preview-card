@@ -149,7 +149,6 @@ button:hover {
     }
 
     .image-izq img {
-        content: url(images/image-product-mobile.jpg);
         border-radius: 0.8rem 0.8rem 0 0;
         width: 100%;
         }
