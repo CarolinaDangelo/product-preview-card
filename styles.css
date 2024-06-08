@@ -136,7 +136,7 @@ button:hover {
     background-color: var(--Green-hover);
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 600px) {
 
     body {
         margin: 2rem 1rem;
